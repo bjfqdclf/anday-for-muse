@@ -1,0 +1,11 @@
+.build/
+build/
+DerivedData/
+.swiftpm/
+.omx/
+SPEC-for-Codex.md
+.DS_Store
+*.xcuserstate
+xcuserdata/
+*.dmg
+*.xcarchive/
